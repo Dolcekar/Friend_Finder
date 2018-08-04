@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Dolcekar/Friend_Finder/issues"
   },
-  "homepage": "https://github.com/Dolcekar/Friend_Finder#readme"
+  "homepage": "https://github.com/Dolcekar/Friend_Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
 }
